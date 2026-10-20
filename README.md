@@ -28,7 +28,7 @@ Every line of code here is written by me. See the rules below.
 | 2. Files, OOP & Testing | 21–40 (09 Nov – 28 Nov) | Structure code with classes and modules, persist data, build real CLIs and prove behaviour with pytest. | Personal Finance CLI |
 | 3. Automation, Web & APIs | 41–60 (29 Nov – 18 Dec) | Talk to the outside world: HTTP APIs, scraping, files of every kind, databases, concurrency and bots. | Price Tracker Bot |
 | 4. Data & Machine Learning | 61–80 (19 Dec – 07 Jan) | Load, clean, analyse and visualise real data, then train and evaluate first models. | Turkey Earthquakes Report |
-| 5. Web Apps, AI & Capstone | 81–100 (08 Jan – 27 Jan) | Ship web apps and APIs, work with local LLMs, build games and finish with your own capstone. | Capstone + Showcase |
+| 5. Web Apps, AI & Capstone | 81–100 (08 Jan – 27 Jan) | Ship web apps and APIs, work with local LLMs, build games and finish with my own capstone. | Capstone + Showcase |
 
 Day by day goals and stretch goals: [PROGRAM.md](PROGRAM.md).
 
