@@ -42,7 +42,7 @@ Status: ⬜ not started · ✅ done on the day · ⏰ done late · ❌ missed
 | Day | Date | Topic | Project | Status |
 |---:|---|---|---|:---:|
 | 1 | Tue 20 Oct | Setup, REPL, print/input | Greeting Card | ✅ |
-| 2 | Wed 21 Oct | Variables, numbers, f-strings | Tip Calculator | ⬜ |
+| 2 | Wed 21 Oct | Variables, numbers, f-strings | Tip Calculator | ✅ |
 | 3 | Thu 22 Oct | Strings and string methods | Text Statistics | ⬜ |
 | 4 | Fri 23 Oct | Conditionals | BMI and Grade Calculator | ⬜ |
 | 5 | Sat 24 Oct | Loops: for, while, range | Number Patterns | ⬜ |
